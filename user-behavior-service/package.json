@@ -1,0 +1,13 @@
+{
+  "name": "user-behavior-service",
+  "version": "1.0.0",
+  "description": "User Behavior Service with gRPC and Kafka producer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grpc": "^1.24.11",
+    "kafkajs": "^2.2.4"
+  }
+}

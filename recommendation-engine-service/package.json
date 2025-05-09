@@ -1,0 +1,13 @@
+{
+  "name": "recommendation-engine-service",
+  "version": "1.0.0",
+  "description": "Recommendation Engine with gRPC and Kafka consumer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grpc": "^1.24.11",
+    "kafkajs": "^2.2.4"
+  }
+}
