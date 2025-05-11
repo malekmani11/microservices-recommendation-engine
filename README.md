@@ -1,1 +1,1 @@
-Ce projet impl‚mente un moteur de recommandations bas‚ sur des microservices avec REST, GraphQL, gRPC et Kafka. 
+Ce projet implâ€šmente un moteur de recommandations basâ€š sur des microservices avecApi gateway ,  REST, GraphQL, gRPC et Kafka. 
